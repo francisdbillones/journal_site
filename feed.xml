@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-22T16:07:39+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">the journal of francis billones</title><subtitle>a journal about, but not limited to, tech.</subtitle><entry><title type="html">the smartphone software scene is a joke</title><link href="http://localhost:4000/2022/08/21/the-smartphone-software-scene-is-a-joke.html" rel="alternate" type="text/html" title="the smartphone software scene is a joke" /><published>2022-08-21T00:00:00+08:00</published><updated>2022-08-21T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/21/the-smartphone-software-scene-is-a-joke</id><content type="html" xml:base="http://localhost:4000/2022/08/21/the-smartphone-software-scene-is-a-joke.html">&lt;p&gt;The smartphone as it exists today is a cornerstone of society. Everyone that isn’t an extremist, in crippling poverty, or a child, has one. So why is smartphone software so bad?&lt;/p&gt;
+
+&lt;p&gt;If you’re looking to purchase a new smartphone (in 2022), you have two options - buy into the Apple ecosystem, or buy into the Google ecosystem. Neither is a terribly good choice.&lt;/p&gt;
+
+&lt;p&gt;The App store takes a 30% fee on all in-app purchases of apps that make over $1 million a year in revenue. If your app doesn’t make over $1 million a year, they take “just” 15%, out of the goodness of their hearts.&lt;/p&gt;
+
+&lt;p&gt;30% is an insane margin. A real estate agent has a commission percentage of around 5-6%. A real estate agent has to convince a customer to make what is probably the single biggest expense of said customer’s life, only to take a measly 5-6% cut. Apple takes 30% by giving you the “privilege” of being part of their walled garden of an ecosystem.&lt;/p&gt;
+
+&lt;p&gt;This leads app developers that don’t have a 30% or even a 15% profit margin to direct users to a &lt;strong&gt;website&lt;/strong&gt; every time they want to make a purchase.&lt;/p&gt;
+
+&lt;p&gt;On the Google side, even though they have the same bracketed “app store tax” of 15% and 30% for under and below $1 million/year respectively, you at least have the option to bypass the Play Store entirely, and download a raw &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.apk&lt;/code&gt; file from one of the dozens &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.apk&lt;/code&gt; websites on the internet, many of which are extremely suspicious. However, no one but technically-sound people do this, and only when they already know they want the app - people that browse the Play Store will never be able to know the app exists.&lt;/p&gt;
+
+&lt;p&gt;The entire reason Apple and Google can charge an insane margin for in-app purchases in the first place is the fact that they hold a duopoly on the smartphone operating system market.&lt;/p&gt;
+
+&lt;p&gt;On iOS, you can’t uninstall many of the core Apple apps, like Safari, Stocks, etc. All browsers on the App store are simply &lt;strong&gt;reskins&lt;/strong&gt; of Safari. That means that if you’re shopping for a browser on iOS, you’re not really picking what browser you’re going to use, but what company you’re going to voluntarily give your data to.&lt;/p&gt;
+
+&lt;p&gt;Likewise, on Google, you can’t uninstall YouTube, Chrome, Google Play services, and others.&lt;/p&gt;
+
+&lt;p&gt;Ah, but you think to yourself - this sounds awfully familiar. It sounds exactly like the Windows or macOS predicament that desktop users have experienced for years! Surely, the solution to the mobile operating system dilemma, much like the desktop operating system dilemma, would be to install a free, open operating system? Like Linux?&lt;/p&gt;
+
+&lt;p&gt;Wrong.&lt;/p&gt;
+
+&lt;p&gt;I mean, sure, you could fill a top 10 list of mobile operating systems not named iOS or Android pretty easily. In fact, &lt;a href=&quot;https://itsfoss.com/open-source-alternatives-android/&quot;&gt;this&lt;/a&gt;, &lt;a href=&quot;https://www.pcmag.com/picks/break-away-from-android-ios-7-free-open-source-mobile-oses-to-try&quot;&gt;this&lt;/a&gt;, and &lt;a href=&quot;https://alternativeto.net/software/android/&quot;&gt;this website&lt;/a&gt; have done so (surprise surprise, some of these are Android-based), but have fun with the app selection. Mobile app developers build almost exclusively for Android and iOS, because Google and Apple make it extremely easy to, with Google’s &lt;a href=&quot;https://developer.android.com/studio&quot;&gt;Android Studio&lt;/a&gt; and Apple’s &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;XCode&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Desktop Linux, meanwhile, lives on, despite the dominance of Windows and macOS simply because the desktop app development ecosystem is much less centralized and much more cross-platform, and because (and I can’t believe I’m about to say this), desktop Linux is &lt;strong&gt;easier&lt;/strong&gt; to install on a desktop or laptop compared to installing an alternative OS on an Android.&lt;/p&gt;
+
+&lt;details closed=&quot;&quot;&gt;
+&lt;summary&gt; Speculation &lt;/summary&gt;
+I speculate that it&apos;s also relatively easy to build a Linux port of a desktop app, simply because macOS is based on BSD, and BSD is Unix-like.
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;To install an alternative OS on an Android, you first have to attain &lt;strong&gt;root&lt;/strong&gt; privileges. That’s right - most smartphone owners don’t even have full &lt;strong&gt;power&lt;/strong&gt; over their smartphones. Attaining root on an Android was relatively straightforward in the early 2010s, but as the years passed by, newer Android phones became harder and harder to root. Rooting also comes with the wonderful consequences of voiding your warranty, so have fun with that.&lt;/p&gt;
+
+&lt;p&gt;After you’ve attained root, you need to flash a custom ROM (Read Only Memory) on the device, provided by the developers of the operating system you’re trying to install. After that, the steps are OS-dependent.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, you need just flash any Linux distribution on any regular old USB, plug it into your desktop, reboot into the USB, and install it from there. After that, it’s not as smooth sailing - Linux is notorious for hardware compatibility issues with certain components, but hey - at least you installed the damn OS.&lt;/p&gt;
+
+&lt;p&gt;The last gaping hole on the smartphone software scene is the update life cycle. Apple usually provides 5 or more years of updates for its iPhones - that covers iOS generations and security updates. That’s not bad.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, Google provides a measly 2 years. That means that after 2 years, any major cybersecurity vulnerability discovered in the last Android version that your smartphone uses will not get patched. That means if you value your security, especially if you do mobile banking, you need to purchase a new smartphone every 2 years.&lt;/p&gt;
+
+&lt;details closed=&quot;&quot;&gt;
+&lt;summary&gt;Note on iOS&lt;/summary&gt;
+On iOS, this process is known as &quot;jailbreaking&quot;.
+&lt;/details&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;The duopoly that Google and Apple has on the smartphone OS market has lead to terrible software design choices, lack of freedom, and possibly exposes users of this critical technology to hackers if they don’t barf up a couple hundred US dollars every 2 years.&lt;/p&gt;
+
+&lt;p&gt;If you’re rich (or American), you probably don’t care. You probably &lt;strong&gt;do&lt;/strong&gt; already get a new phone every 2 years. But for the majority of the world that spends $200-$300 on their device and uses it for 6, it’s not as easy. And because of the lack of root privileges, there’s software in your device that you can’t control - and when you purchase a cheap phone, it’s most likely a Chinese one, and they’re not exactly the role model of respecting user privacy.&lt;/p&gt;</content><author><name></name></author><summary type="html">The smartphone as it exists today is a cornerstone of society. Everyone that isn’t an extremist, in crippling poverty, or a child, has one. So why is smartphone software so bad?</summary></entry><entry><title type="html">power of nonlinearity</title><link href="http://localhost:4000/2022/08/20/power-of-nonlinearity.html" rel="alternate" type="text/html" title="power of nonlinearity" /><published>2022-08-20T00:00:00+08:00</published><updated>2022-08-20T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/20/power-of-nonlinearity</id><content type="html" xml:base="http://localhost:4000/2022/08/20/power-of-nonlinearity.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Skip to the next section if you’re unfamiliar with the underlying neural network mathematics&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The neural network is a fundamental idea that powers many AI systems we have today. It has been scaled up to tackle hard problems such as natural language understanding, object recognition, driving, and many other abilities thought to be exclusive only to humans.&lt;/p&gt;
+
+&lt;details closed=&quot;&quot;&gt;
+&lt;summary&gt;Rant &lt;/summary&gt;
+The idea that intelligence is exclusive to a carbon-based neural network such as the brain is absurd. Any sort of computation that the brain performs to transform electrical signals into coherent thought can and will be done by silicon. The problem is figuring out the computations in the first place.
+&lt;/details&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The following is a multi-layer feedforward neural network as it is commonly visualized, and how they’re commonly explained:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/power-of-nonlinearity/nn.webp&quot; alt=&quot;Neural net&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A single “neuron” in this network has a “weight” and a “bias”. The neuron takes in a real-valued number as input, and transforms it according to the following equation:&lt;/p&gt;
+&lt;div&gt;
+$$\begin{aligned}
+n(x)=n_w⋅x+n_b
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;It then feeds the result to the next layer.&lt;/p&gt;
+
+&lt;p&gt;Thinking about neural networks this way is messy. Instead, we take a different route. Let’s think about the input as being a vector, and we pass this vector input to each layer as a whole, instead of thinking about passing separate numbers to each neuron.&lt;/p&gt;
+
+&lt;p&gt;Then, if you work out the math, you’ll realize that the linear transformations being performed by each neuron, if you consider them as a whole, is analogous to a matrix vector product. In fact, it is exactly a matrix vector product - we aggregate the weight vectors in each neuron to one large weight matrix, and each bias in each neuron to one large bias vector. Then, the computation being done by a single layer can be represented elegantly with this one-liner:&lt;/p&gt;
+&lt;div&gt;
+$$l(x)=l_W⋅x+l_b,$$
+&lt;/div&gt;
+&lt;p&gt;where \(l_W\) is the weight matrix, and \(l_b\) is the bias vector.&lt;/p&gt;
+
+&lt;p&gt;Then, neural networks can be simply thought of as a series of linear transformations to data!&lt;/p&gt;
+
+&lt;h2 id=&quot;why-linear-transformations-are-useful&quot;&gt;Why linear transformations are useful&lt;/h2&gt;
+
+&lt;p&gt;A linear transformation is a function that takes in a coordinate, and maps it to a different coordinate in Euclidean space. However, the transformation is only classified as linear if grid lines remain &lt;em&gt;parallel&lt;/em&gt; and &lt;em&gt;evenly spaced&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Matrices are linear transformations - performing a matrix vector product with a 2x2 matrix on a 2-vector results in another 2-vector. 2-vectors are just vectors with 2 dimensions; therefore, you can extend the idea of a coordinate to a 2-vector.&lt;/p&gt;
+
+&lt;p&gt;We can combine linear transformations to perform prediction on data.&lt;/p&gt;
+
+&lt;p&gt;For example, take the following scatter plot:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/power-of-nonlinearity/plot1.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If we wanted to come up with our own series of linear transformations to categorise this data, we might come up with the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Rotation&lt;/strong&gt; - Imagine the linear boundary between both groups. We rotate the data such that that linear boundary is now horizontal:&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/power-of-nonlinearity/plot2.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Translation&lt;/strong&gt; - Now, with the rotation being done, our next transformation is not actually a linear transformation, but rather a translation along the y-axis such that both groups are separated by the y-axis, through the use of a bias vector instead of a weight matrix:&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/power-of-nonlinearity/plot3.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Squeeze”&lt;/strong&gt; - Now, we use a singular matrix to transform the data from 2D Euclidean space to 1D Euclidean space, preserving the y-coordinate:&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/power-of-nonlinearity/plot4.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now, our hypothetical neural network’s outputs can be easily interpretable - anything less than 0 is part of the “red” class, and anything above 0 is part of the “blue” class.&lt;/p&gt;
+
+&lt;p&gt;These three linear transformations don’t need to be in separate layers, either - they can be easily combined to one layer, by multiplying them all: \(L=l_3⋅l_2⋅l_1\).&lt;/p&gt;
+
+&lt;h2 id=&quot;but-how-about-more-complex-data&quot;&gt;But how about more complex data?&lt;/h2&gt;
+
+&lt;p&gt;Not all data is linearly separable by default. For example, observe this scatter plot:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/power-of-nonlinearity/spiral.webp&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no obvious linear pattern we can observe here. Therefore, we have to &lt;strong&gt;make&lt;/strong&gt; our linear transformations &lt;strong&gt;non-linear&lt;/strong&gt;, and we do that by interspersing them with nonlinear functions:&lt;/p&gt;
+
+&lt;div&gt;
+$$l(x)=σ(l_W⋅x+l_b)$$
+&lt;/div&gt;
+
+&lt;p&gt;where \(σ\) is any arbitrary nonlinear function.&lt;/p&gt;
+
+&lt;p&gt;With this added functionality, here’s a visualization of how a nonlinear function can &lt;strong&gt;transform&lt;/strong&gt; nonlinear data into linear data:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/power-of-nonlinearity/spiral.gif&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Linearly separable data is much easier to deal with!&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;In this article, we showed that neural networks (&lt;em&gt;at least, the feed-forward neural network&lt;/em&gt;) are not what they are commonly compared to - biological neural networks. Instead, they are a series of linear transformations in the form of matrix vector products, interspersed with nonlinearities.&lt;/p&gt;
+
+&lt;p&gt;This fundamental idea of composing “non-linear linear transformations” has led to many breakthroughs in the field of AI; namely, &lt;a href=&quot;https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf&quot;&gt;convolutional neural networks&lt;/a&gt; in the field of computer vision, &lt;a href=&quot;https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf&quot;&gt;transformer networks&lt;/a&gt; in the field of natural language understanding, and &lt;a href=&quot;http://www.bioinf.jku.at/publications/older/2604.pdf&quot;&gt;LSTMs&lt;/a&gt; in the field of general time-series forecasting. With parameter counts reaching up to the hundreds of &lt;strong&gt;billions&lt;/strong&gt;, it is not hard to see that this basic idea of stacking transformations can tackle much higher-dimensional data such as images and natural language.&lt;/p&gt;</content><author><name></name></author><summary type="html">Skip to the next section if you’re unfamiliar with the underlying neural network mathematics</summary></entry></feed>
