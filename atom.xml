@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>the journal of francis billones</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2022-12-22T16:58:35+08:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://journal.francisdb.net/atom.xml" rel="self"/>
+ <link href="https://journal.francisdb.net/"/>
+ <updated>2022-12-22T17:07:14+08:00</updated>
+ <id>https://journal.francisdb.net</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>drive and meaning</title>
-   <link href="http://localhost:4000/2022/12/22/drive-and-meaning.html"/>
+   <link href="https://journal.francisdb.net/2022/12/22/drive-and-meaning.html"/>
    <updated>2022-12-22T00:00:00+08:00</updated>
-   <id>http://localhost:4000/2022/12/22/drive-and-meaning</id>
+   <id>https://journal.francisdb.net/2022/12/22/drive-and-meaning</id>
    <content type="html">&lt;p&gt;If you asked me a year ago what my purpose in life was, I would’ve told you that I wanted to build great and cool things (greatness is optional - coolness is required). I would’ve told you that the driving force behind my existence was to joust with interesting intellectual challenges that the universe likes to throw at humanity. I wanted to be on the frontlines of history, to create things that impact as many human lives as possible. I didn’t necessarily want to be remembered, but to live my life in a manner in which I die peacefully, knowing I lived as much as I could.&lt;/p&gt;
 
 &lt;p&gt;With this as my foundation, I very easily accepted the ideas promoted by George Hotz. A slightly crazed, highly motivated individual with immense technical skill and an approach to thinking that I personally found unique as to be a breath of fresh air. Although Hotz, and other individuals like him, namely Elon Musk, preach about cooperation in the scientific and technical communities, their philosophy is one that is highly individualistic - just in a mankind vs. nature way. To paraphrase Hotz, the ultimate win in life is to “beat nature” and “escape the simulation”.&lt;/p&gt;
@@ -53,9 +53,9 @@ Pictured above is Professor Zei, refusing to budge from his place in the mystica
  
  <entry>
    <title>the smartphone software scene is a joke</title>
-   <link href="http://localhost:4000/2022/08/21/the-smartphone-software-scene-is-a-joke.html"/>
+   <link href="https://journal.francisdb.net/2022/08/21/the-smartphone-software-scene-is-a-joke.html"/>
    <updated>2022-08-21T00:00:00+08:00</updated>
-   <id>http://localhost:4000/2022/08/21/the-smartphone-software-scene-is-a-joke</id>
+   <id>https://journal.francisdb.net/2022/08/21/the-smartphone-software-scene-is-a-joke</id>
    <content type="html">&lt;p&gt;The smartphone as it exists today is a cornerstone of society. Everyone that isn’t an extremist, in crippling poverty, or a child, has one. So why is smartphone software so bad?&lt;/p&gt;
 
 &lt;p&gt;If you’re looking to purchase a new smartphone (in 2022), you have two options - buy into the Apple ecosystem, or buy into the Google ecosystem. Neither is a terribly good choice.&lt;/p&gt;
@@ -113,9 +113,9 @@ On iOS, this process is known as &quot;jailbreaking&quot;.
  
  <entry>
    <title>power of nonlinearity</title>
-   <link href="http://localhost:4000/2022/08/20/power-of-nonlinearity.html"/>
+   <link href="https://journal.francisdb.net/2022/08/20/power-of-nonlinearity.html"/>
    <updated>2022-08-20T00:00:00+08:00</updated>
-   <id>http://localhost:4000/2022/08/20/power-of-nonlinearity</id>
+   <id>https://journal.francisdb.net/2022/08/20/power-of-nonlinearity</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Skip to the next section if you’re unfamiliar with the underlying neural network mathematics&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The neural network is a fundamental idea that powers many AI systems we have today. It has been scaled up to tackle hard problems such as natural language understanding, object recognition, driving, and many other abilities thought to be exclusive only to humans.&lt;/p&gt;
