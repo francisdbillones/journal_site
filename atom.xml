@@ -4,13 +4,101 @@
  <title>the journal of francis billones</title>
  <link href="https://journal.francisdb.net/atom.xml" rel="self"/>
  <link href="https://journal.francisdb.net/"/>
- <updated>2023-05-01T21:42:33+08:00</updated>
+ <updated>2024-07-24T13:30:49+08:00</updated>
  <id>https://journal.francisdb.net</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>trivial math boredom</title>
+   <link href="https://journal.francisdb.net/2023/12/18/trivial-math-boredom.html"/>
+   <updated>2023-12-18T00:00:00+08:00</updated>
+   <id>https://journal.francisdb.net/2023/12/18/trivial-math-boredom</id>
+   <content type="html">&lt;p&gt;Let’s say you wanted to compute for the following integral:&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+\int sin^Nx \, \mathrm{d}x
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;where &lt;span&gt; \(N = 2n + 1, n \in \mathbb{Z}\)&lt;/span&gt;. In English, you want to get the integral of the sine function raised to an odd integer power.&lt;/p&gt;
+
+&lt;p&gt;First, we have to represent the integrand in a form wherein we can perform &lt;a href=&quot;https://en.wikipedia.org/wiki/Integration_by_substitution&quot;&gt;u-substitution&lt;/a&gt;. We can do so by separating one of the sines in the exponential:&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+\int \sin^{2n+1}x \, \mathrm{d}x = \int \sin^{2n}(x)\sin(x) \, \mathrm{d}x
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;and then, using the identity &lt;span&gt;\(\sin^{2}x = 1 - \cos^{2}x\)&lt;/span&gt;:&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+\int \sin^{2n}(x)\sin(x) \, \mathrm{d}x = 
+\int (\sin^{2}(x))^{n}\sin(x) \, \mathrm{d}x =
+\int (1-\cos^{2}(x))^{n}\sin(x) \, \mathrm{d}x
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;Then, we can set &lt;span&gt;\(u = \cos x, \mathrm{d}u = -\sin{x}\mathrm{d}x\)&lt;/span&gt;:&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+\int (1-\cos^{2}(x))^{n}\sin(x) \, \mathrm{d}x = 
+-\int (1-u^{2})^{n} \, \mathrm{d}u
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;Now, you can stop here, but I didn’t. I wanted to get a closed form solution (or rather, as close to closed form as possible).&lt;/p&gt;
+&lt;details closed=&quot;&quot;&gt;
+&lt;summary&gt;On the use of &quot;closed form&quot;&lt;/summary&gt;
+I&apos;m well aware that &quot;closed form&quot; is not the appropriate term here, but I wanted to use it to express the idea of a solution that is simply plug-and-play. Leaving the integral as is would require extensive work for N &amp;gt; 2.
+
+As for &quot;extensive work&quot;, I mean something that requires a CAS to do more than just simple integer multiplication.
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Conveniently enough, since &lt;span&gt;\((1 - u^2)^n\)&lt;/span&gt; is a binomial, we can simply use the binomial theorem:&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+(x + y)^n = \sum_{k=0}^{n} \binom{n}{k} x^{n-k} y^k
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;For our binomial &lt;span&gt;\((1 - u^2)^n\)&lt;/span&gt;, &lt;span&gt;\(x\)&lt;/span&gt; would correspond to \(1\), and \(y\) would correspond to \(-u^2\):&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+(1 -u^{2})^n = \sum_{k=0}^{n} \binom{n}{k} 1^{n-k} (-u^2)^k
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;which, when using the formula \(\binom{n}{k} = \frac{n!}{k!(n-k)!}\), as well as removing the redundant \(1^{n-k}\) (as 1 raised to any integer is 1), results in:&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+(1 -u^{2})^n = \sum_{k=0}^{n} \frac{n!}{k!(n-k)!} (-u^2)^k
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;As this is simply the expansion of a binomial, which is a summation of terms each with a real coefficient and \(u\) raised to an integer power, when we substitute this back into the integral, we can simply use the power rule of integration:&lt;/p&gt;
+&lt;div&gt;
+$$\begin{aligned}
+\int \sum_{k=0}^{n} \frac{n!}{k!(n-k)!} (-u^2)^k \, \mathrm{d}u
+=
+\sum_{k=0}^{n} \frac{n!}{k!(n-k)!(2k+1)} (-u^2)^{k+1}
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;and there we have it. An expression for \(\int sin^Nx \, \mathrm{d}x\) that requires nothing more than simple arithmetic.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>pedagogy</title>
