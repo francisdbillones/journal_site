@@ -4,7 +4,7 @@
  <title>the journal of francis billones</title>
  <link href="https://journal.francisdb.net/atom.xml" rel="self"/>
  <link href="https://journal.francisdb.net/"/>
- <updated>2024-07-24T21:51:24+08:00</updated>
+ <updated>2024-07-24T22:00:58+08:00</updated>
  <id>https://journal.francisdb.net</id>
  <author>
    <name></name>
@@ -30,8 +30,15 @@
 &lt;p&gt;Of course, I didn’t want this to happen. I did more research, and I stumbled upon Maya - a former digital payments-only service known as PayMaya turned digital payments and banking service. I was especially intrigued by the interest rates they were promoting - &lt;strong&gt;3.5%&lt;/strong&gt; base interest rate &lt;em&gt;just&lt;/em&gt; by putting the money into a Maya Savings account.&lt;/p&gt;
 
 &lt;details closed=&quot;&quot;&gt;
+&lt;summary&gt;How does Maya offer such a higher rate?&lt;/summary&gt;
+Maya Bank is known as a &quot;digital bank&quot;, a type of bank that exists completely digitally and operates no physical branches. As such, the costs associated with running physical branches as well as servicing the needs of physical cash such as transporting cash to branches and ATM machines are completely non-existent. This allows Maya to transfer their savings on operating costs to the consumer, in the form of higher interest rates. In the future, if digital banks succeed in dominating a large part of the market, expect rates to lower as the need for customer acquisition lessens.
+&lt;/details&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;details closed=&quot;&quot;&gt;
 &lt;summary&gt;Notes on computation&lt;/summary&gt;
-All these figures are computed without considering the 20% tax on interest earnings, as well as inflation rates, mostly because I am lazy.
+The following figures are computed without considering the 20% tax on interest earnings, as well as inflation rates, mostly because I am lazy.
 &lt;/details&gt;
 
 &lt;table&gt;
