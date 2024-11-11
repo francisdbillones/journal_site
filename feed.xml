@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://journal.francisdb.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://journal.francisdb.net/" rel="alternate" type="text/html" /><updated>2024-10-07T15:54:00+08:00</updated><id>https://journal.francisdb.net/feed.xml</id><title type="html">the journal of francis billones</title><subtitle>pseudo-intellectual rants about tech and society</subtitle><entry><title type="html">generative ai: generational implications</title><link href="https://journal.francisdb.net/2024/09/25/generative-ai-generational-implications.html" rel="alternate" type="text/html" title="generative ai: generational implications" /><published>2024-09-25T00:00:00+08:00</published><updated>2024-09-25T00:00:00+08:00</updated><id>https://journal.francisdb.net/2024/09/25/generative-ai-generational-implications</id><content type="html" xml:base="https://journal.francisdb.net/2024/09/25/generative-ai-generational-implications.html">&lt;p&gt;&lt;em&gt;Special thanks to E.J.M.M for contributing to this article&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://journal.francisdb.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://journal.francisdb.net/" rel="alternate" type="text/html" /><updated>2024-11-11T12:39:17+08:00</updated><id>https://journal.francisdb.net/feed.xml</id><title type="html">the journal of francis billones</title><subtitle>pseudo-intellectual rants about tech and society</subtitle><entry><title type="html">unqualified and unpolished thoughts on capitalism</title><link href="https://journal.francisdb.net/2024/11/11/unqualified-thoughts-on-capitalism.html" rel="alternate" type="text/html" title="unqualified and unpolished thoughts on capitalism" /><published>2024-11-11T00:00:00+08:00</published><updated>2024-11-11T00:00:00+08:00</updated><id>https://journal.francisdb.net/2024/11/11/unqualified-thoughts-on-capitalism</id><content type="html" xml:base="https://journal.francisdb.net/2024/11/11/unqualified-thoughts-on-capitalism.html">&lt;p&gt;tl;dr: capitalism is not inherently flawed, and pursuing profits is not inherently evil.
+it is a game, and when evil is legal in the game, you cannot blame winners for playing optimally.&lt;/p&gt;
+
+&lt;p&gt;I thought of this while sitting in a lecture about faith and capitalism. The message being
+communicated by the professor was quite honestly not bad on its own—the same old
+“we have to think about God and morality when making business decisions”. Obviously
+not a bad philosophy for running companies, and I can certainly think of a few that ought
+to do that more.&lt;/p&gt;
+
+&lt;p&gt;When I thought about it a little deeper, though, I realized that it is quite literally
+impossible to do that in real life, outside of an ethics professors’ utopia where
+everyone acts in everyone else’s best interest. This is not a dig at ethics professors,
+by the way—every field has its own utopia upon which it bases its teachings upon. Economics
+assumes everyone thinks rationally when making economic decisions, and programmers assume
+people actually care about performance.&lt;/p&gt;
+
+&lt;p&gt;Kidding aside, the notion that entities in a capitalist system must follow &lt;em&gt;some&lt;/em&gt; basic
+moral philosophy to not delve into anarchy and chaos is not something new nor novel. Obviously,
+Apple would obviously &lt;strong&gt;love&lt;/strong&gt; to kill every competitor it had, but it can’t.&lt;/p&gt;
+
+&lt;p&gt;It becomes a little harder to distinguish between what is moral and what isn’t when we
+talk about actions that don’t drive deep into our primitive natures. Killing is something
+that no one would like to see, nor do (and if you do, there’s a medical term for you). &lt;a href=&quot;https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban&quot;&gt;Making
+specialized hardware that can’t be fixed by an independent technician&lt;/a&gt; is something that we
+unfortunately didn’t have to evolve an aversion to, and so lives in a much grayer area
+ethically speaking.&lt;/p&gt;
+
+&lt;p&gt;Usually, when companies commit egregious sins against humanity, it is (and &lt;em&gt;always&lt;/em&gt; is)
+in pursuit of profits. This is the main driver of capitalism—fierce competition starves
+the weak and unoptimal and rewards the strong and efficient. Obviously, this formula works.
+Advancements in technology, logistics, and manufacturing that make the world as abundant
+as it is today is a direct result of capitalism’s competition.&lt;/p&gt;
+
+&lt;p&gt;In pursuit of abundance, players in the capitalist game throw away morality in favor
+of efficiency. Nestlé is allegedly &lt;a href=&quot;https://forloveofwater.org/water-privatization-the-struggle-to-stop-nestles-groundwater-grab-continues/&quot;&gt;privatizing water&lt;/a&gt;,
+&lt;a href=&quot;https://www.cbsnews.com/news/inflation-shrinkflation-skimpflation-toilet-paper-candy-cereal-lendingtree/&quot;&gt;shrinkflation&lt;/a&gt; has led to consumers paying more
+for the same product, and &lt;a href=&quot;https://www.npr.org/sections/goatsandsoda/2023/02/01/1152893248/red-cobalt-congo-drc-mining-siddharth-kara&quot;&gt;“modern day slavery”&lt;/a&gt; is
+happening in regions of South Africa rich with rare earth metals used in the manufacturing of batteries.&lt;/p&gt;
+
+&lt;p&gt;So is capitalism inherently flawed? A lot of people seem to think so, but I think (and I think
+this is the view most people arrive at) that with an adequate system of checks and balances, as well
+as good policy enforcement, a lot of these problems can be avoided.&lt;/p&gt;
+
+&lt;p&gt;For those of you rolling your eyes, yes—having a good controlling body that regulates
+a capitalist system is an entire problem on its own. However, I think a lot of the discord around
+this topic comes from a disproportionate amount of attention being paid towards the evil
+actions of companies that are simply acting in their own best interests according to the
+rules of the game.&lt;/p&gt;</content><author><name></name></author><summary type="html">tl;dr: capitalism is not inherently flawed, and pursuing profits is not inherently evil. it is a game, and when evil is legal in the game, you cannot blame winners for playing optimally.</summary></entry><entry><title type="html">generative ai: generational implications</title><link href="https://journal.francisdb.net/2024/09/25/generative-ai-generational-implications.html" rel="alternate" type="text/html" title="generative ai: generational implications" /><published>2024-09-25T00:00:00+08:00</published><updated>2024-09-25T00:00:00+08:00</updated><id>https://journal.francisdb.net/2024/09/25/generative-ai-generational-implications</id><content type="html" xml:base="https://journal.francisdb.net/2024/09/25/generative-ai-generational-implications.html">&lt;p&gt;&lt;em&gt;Special thanks to E.J.M.M for contributing to this article&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Generative AI is a branch of artificial intelligence that can produce content across various mediums, such as text, images, video, and audio. The most popular forms of generative AI include “large language models” or LLMs such as ChatGPT and Gemini AI, as well as “text-to-image” models such as DALL-E 3 and Midjourney. These tools produce text and visuals that are nearly indistinguishable from those created by humans. Advances in multi-modality—a quality of AI models to interpret and generate content in multiple mediums rather than just one—have greatly expanded the capabilities and improved the ease-of-use of generative AI products. For example, ChatGPT is capable of processing and generating documents and images, alongside its typical text-based prompts. As a result, the popularity of AI tools has skyrocketed in recent years. 70% of Gen Z report using the technology, among which 52% cite using Generative AI to make informed decisions&lt;sup&gt;&lt;a href=&quot;https://www.salesforce.com/news/stories/generative-ai-statistics/&quot;&gt;[s]&lt;/a&gt;&lt;/sup&gt;. With wide-scale adoption among the youth, it is becoming increasingly urgent for the education sector to develop strategies and policies for accommodating AI within the curriculum and to encourage its ethical and responsible use.&lt;/p&gt;
 
