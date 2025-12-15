@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>the journal of francis billones</title>
- <link href="https://journal.francisdb.net/atom.xml" rel="self"/>
- <link href="https://journal.francisdb.net/"/>
- <updated>2024-11-17T11:35:25+08:00</updated>
- <id>https://journal.francisdb.net</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2025-12-15T14:13:53+08:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>unqualified and unpolished thoughts on capitalism</title>
-   <link href="https://journal.francisdb.net/2024/11/11/unqualified-thoughts-on-capitalism.html"/>
+   <title>tiny rant on capitalism</title>
+   <link href="http://localhost:4000/2024/11/11/tiny-rant-on-capitalism.html"/>
    <updated>2024-11-11T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2024/11/11/unqualified-thoughts-on-capitalism</id>
+   <id>http://localhost:4000/2024/11/11/tiny-rant-on-capitalism</id>
    <content type="html">&lt;p&gt;tl;dr: capitalism is not inherently flawed, and pursuing profits is not inherently evil.
 it is a game, and when evil is legal in the game, you cannot blame winners for playing optimally.&lt;/p&gt;
 
@@ -70,9 +70,9 @@ rules of the game.&lt;/p&gt;
  
  <entry>
    <title>generative ai: generational implications</title>
-   <link href="https://journal.francisdb.net/2024/09/25/generative-ai-generational-implications.html"/>
+   <link href="http://localhost:4000/2024/09/25/generative-ai-generational-implications.html"/>
    <updated>2024-09-25T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2024/09/25/generative-ai-generational-implications</id>
+   <id>http://localhost:4000/2024/09/25/generative-ai-generational-implications</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Special thanks to E.J.M.M for contributing to this article&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Generative AI is a branch of artificial intelligence that can produce content across various mediums, such as text, images, video, and audio. The most popular forms of generative AI include “large language models” or LLMs such as ChatGPT and Gemini AI, as well as “text-to-image” models such as DALL-E 3 and Midjourney. These tools produce text and visuals that are nearly indistinguishable from those created by humans. Advances in multi-modality—a quality of AI models to interpret and generate content in multiple mediums rather than just one—have greatly expanded the capabilities and improved the ease-of-use of generative AI products. For example, ChatGPT is capable of processing and generating documents and images, alongside its typical text-based prompts. As a result, the popularity of AI tools has skyrocketed in recent years. 70% of Gen Z report using the technology, among which 52% cite using Generative AI to make informed decisions&lt;sup&gt;&lt;a href=&quot;https://www.salesforce.com/news/stories/generative-ai-statistics/&quot;&gt;[s]&lt;/a&gt;&lt;/sup&gt;. With wide-scale adoption among the youth, it is becoming increasingly urgent for the education sector to develop strategies and policies for accommodating AI within the curriculum and to encourage its ethical and responsible use.&lt;/p&gt;
@@ -91,30 +91,30 @@ rules of the game.&lt;/p&gt;
  
  <entry>
    <title>identity and self expression</title>
-   <link href="https://journal.francisdb.net/2024/07/25/identity-and-self-expression.html"/>
+   <link href="http://localhost:4000/2024/07/25/identity-and-self-expression.html"/>
    <updated>2024-07-25T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2024/07/25/identity-and-self-expression</id>
+   <id>http://localhost:4000/2024/07/25/identity-and-self-expression</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/identity-and-self-expression/the-wolf-of-wall-street.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;“The Wolf of Wall Street” is a 2014 movie based on the 2007 memoir written by Jordan Belfort, former stockbroker and financial criminal. The movie stars Leonardo DeCaprio as Belfort’s character, following his journey from being a regular old stockbroker on the trading floor, to running boiler-room-style scams on penny stocks, to performing elaborate pump-and-dump schemes from his own brokerage house, Stratton Oakmont.&lt;/p&gt;
+&lt;p&gt;“The Wolf of Wall Street” is a 2014 movie starring Leonardo DeCaprio as “Jordan Belfort”, following his career journey from being a regular old stockbroker on the trading floor, to running boiler-room-style scams on penny stocks, to performing elaborate pump-and-dump schemes from his own brokerage house, Stratton Oakmont.&lt;/p&gt;
 
-&lt;p&gt;Aside from telling the story of Belfort’s financial crimes, the movie also displays the other, much more “entertaining” aspects of his life: hookers, drugs, and cars and boats.&lt;/p&gt;
+&lt;p&gt;Aside from telling the story of Belfort’s financial crimes, the movie also displays the other, much more entertaining aspects of his life: hookers, drugs, cars, and boats.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/identity-and-self-expression/drugs-on-someones-butt.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Obviously, this has nothing to do with “Wall Street” and more to do with “The Wolf”. However, the aesthetics of this movie, as well as the personality and mannerisms of Leonardo DeCaprio’s character have massive influences on the public image and perception of Wall Street as well as the world of finance as a whole.&lt;/p&gt;
+&lt;p&gt;Obviously, this has nothing to do with “Wall Street” as it does with “The Wolf”. The aesthetics of this movie, as well as the personality and mannerisms of Leonardo DeCaprio’s character, have had massive influences on the public image of Wall Street and the world of finance as a whole.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/identity-and-self-expression/finance-bro.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Stereotyping is and has been a natural social phenomenon ever since we became homo sapiens. Reducing people from creatures of immense depth and complexity to simple patterns of behavior and tendencies allows our small monkey brains to grasp the concept of a “person” much more easily and efficiently. Being able to predict and model the behavior of other people is incredibly valuable — it allows one to develop trust to other people, as well as perform in a social environment.&lt;/p&gt;
+&lt;p&gt;Stereotyping is and has been a natural emergent property of human socialization. Reducing people from souls of immense depth and complexity to simple categories of behavior allows our small monkey brains to grasp the concept of a “person”. Being able to predict and model the behavior of other people is incredibly valuable to successfully participate in society.&lt;/p&gt;
 
-&lt;p&gt;As we spend more and more time with a person, we do away with remembering them as a collection of different stereotypes and our mental model of them becomes much more natural and human. That is why we treat people we’ve known our entire lives differently — aside from the emotional connection, they are simply more “human” in our heads. Any stranger may as well be a video game NPC.&lt;/p&gt;
+&lt;p&gt;As we spend more time with a person, we do away with thinking about them merely as a collection of different tendencies, and our mental model of them becomes much more ingrained and nuanced. We tend to treat people we’ve known our entire lives differently — they are simply more “human” in our heads. Any stranger might as well be a video game NPC.&lt;/p&gt;
 
-&lt;p&gt;Stereotypes are informed and derived from the copying and mimicing of small micro-behaviors, characteristics, tendencies, and values across a group of people. Accents are an example of a characteristic that may form part of a larger stereotype. Combine an Indian accent and an Internet/over-the-phone scam, and you arrive at the infamous “Indian scammer” stereotype. When you think of a “hippie” (or at least, when an American thinks of a hippie), you typically picture a person with long hair, wearing brightly colored rainbow clothing, plays the guitar, maybe owns a van, is anti-war, and smokes marijuana.&lt;/p&gt;
+&lt;p&gt;Stereotypes are informed by the higher homogeneity of small micro-behaviors, characteristics, tendencies, and moral values across a group of people. Accents are an example of a tendency that may form part of a larger stereotype. Combine an Indian accent and an Internet/over-the-phone scam, and you arrive at the infamous “Indian scammer” stereotype. When you think of a “hippie” (or at least, when an American thinks of a hippie), you typically picture a person with long hair, wearing brightly colored rainbow clothing, plays the guitar, maybe owns a van, is anti-war, and smokes marijuana.&lt;/p&gt;
 
 &lt;p&gt;This begs the question: Why do stereotypes fit so well? Humans are, after all, complex beings. We all have our own interests, needs, desires, and dreams. We were all raised differently and we have all had different experiences.&lt;/p&gt;
 
-&lt;p&gt;One possible explanation for why this happens has to do with “being predictable”. Compressing people to mere concepts and patterns doesn’t necessarily just go one way. People themselves can start to compress their own personalities, in order to fit into an existing societal mold that they choose for themselves.&lt;/p&gt;
+&lt;p&gt;One possible explanation for why this happens has to do with “being predictable”. Compressing people to mere concepts and patterns doesn’t necessarily just go one way — people can themselves compress their own personalities in order to fit into an existing societal mold that they choose for themselves.&lt;/p&gt;
 
 &lt;details closed=&quot;&quot;&gt;
 &lt;summary&gt;Predictability in game theory&lt;/summary&gt;
@@ -122,19 +122,17 @@ In a typical prisoners&apos; dilemma type scenario, the optimal action is always
 &lt;/details&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Since stereotypes are a tool for us to possibly infer or predict characteristics of a person from their other tendencies, if a person desires to be seen or to be interpreted as possibly having certain characteristics desirable to themselves, then they will adjust themselves to conform to “stereotypes”, ideas, and molds that fit those characteristics. For example, someone that values modesty, minimalism, and humility may express those values in the way they dress. This is the simplest form of self-expression — directly connecting ones actions to the values one holds.&lt;/p&gt;
+&lt;p&gt;Since stereotypes are a tool for us to infer characteristics of a person from their other tendencies, if a person has a desire to be perceived as having certain characteristics that they deem desirable themselves, they will then adjust themselves to conform to “stereotypes”, ideas, and molds that are associated with those characteristics. For example, someone that values modesty, minimalism, and humility may express those values in the way they dress. This is the simplest form of self-expression — directly connecting ones actions to the values one holds.&lt;/p&gt;
 
-&lt;p&gt;Now, complexity and confusion arises when self-expression is derived not from the values, but from other expressions of those values themselves. For example, take Andrew Tate, an internet personality most known for his patriarchal values. Someone that agrees and takes inspiration from Tates’ views on mens’ role in society, womens’ value, and discipline, may, in a subconscious attempt to express their ideology, adopt other traits of Tate that aren’t necessarily connected to Tates’ original ideas; namely, his mannerisms, the way he dresses, his obsession with Bugattis, etc.&lt;/p&gt;
+&lt;p&gt;The error comes when we confuse expressions of values with the values themselves.&lt;/p&gt;
 
-&lt;p&gt;There may be weak connections between those traits and the original ideas Tate expresses — speaking in a bold, arrogant manner may represent the idea of male strength that Tate values.&lt;/p&gt;
+&lt;p&gt;For example, take Andrew Tate, an internet personality most known for his pro-male beliefs. Someone that aligns with Tates’ views on mens’ role in society, may, in a subconscious attempt to express their ideology, adopt other traits of Tate that aren’t necessarily connected to Tates’ original ideas; namely, his mannerisms, the way he dresses, and his obsession with Bugattis.&lt;/p&gt;
 
-&lt;p&gt;However, it is here where stereotypes and the value of inferring a person’s personality and values from their outward self-expression start to prove less useful. It is here where stereotypes do the most damage.&lt;/p&gt;
+&lt;p&gt;One can argue that there are connections, albeit weak, between those traits and the original ideas Tate expresses — speaking in a bold, arrogant manner may, in a manner of speaking, represent the idea of male strength that Tate values. However, it is here where stereotypes start to prove less useful. It is here where stereotypes do the most damage.&lt;/p&gt;
 
-&lt;p&gt;When expressions of values start to detach from the values themselves, unnecessary false equivalence and self-limitation occurs.&lt;/p&gt;
+&lt;p&gt;For example, tattoos in Western society are discriminated against because tattoos are typically associated with people from a lower socio-economic bracket. Then, because of the stigma surrounding them (and the people that wanted to express their indifference with being stigmatized), tattoos were then associated with rebellion. On the other hand, the art of “&lt;a href=&quot;https://www.stu.ca/lnap/henna-its-history-and-cultural-significance/&quot;&gt;Henna&lt;/a&gt;” — the practice of staining the skin with a plant-based paste — has been practiced in Pakistan, India, Africa, and the Middle East for over 5000 years. Fundamentally speaking, they are no different — they are both done for the purposes of decorating the skin with figures. However, Henna is regarded with much more elegance and respect. It is only in Western society that a false equivalence was created — that tattoos, by virtue of their popularity among the lower class, are “dirty”.&lt;/p&gt;
 
-&lt;p&gt;For example, tattoos in Western society are discriminated against, specifically because tattoos are typically associated with people from a lower socio-economic bracket. As such, because of the stigma surrounding them, tattoos also developed to be associated with rebellion. On the other hand, the art of “&lt;a href=&quot;https://www.stu.ca/lnap/henna-its-history-and-cultural-significance/&quot;&gt;Henna&lt;/a&gt;” — the practice of staining the skin with a plant-based paste — has been practiced in Pakistan, India, Africa, and the Middle East for over 5000 years. Fundamentally speaking, they are no different — they are both done for the purposes of decorating the skin with figures. However, Henna is regarded with much more elegance and respect. It is only in Western society that a false equivalence was created — that tattoos, by virtue of their popularity among the lower class, are inherently “dirty”.&lt;/p&gt;
-
-&lt;p&gt;With the internet and the increasingly globalized nature of the world, the rate at which any one person (or at least, a person fortunate enough to have internet access or any form of electronic communication) discovers and experiences new things rival that of monarchs from the past world. As such, each of us have an incredible opportunity to become human beings with extreme depth and substance. It will be a waste to worry so much about fitting into an arbitrary social box.&lt;/p&gt;
+&lt;p&gt;With the internet and the increasingly globalized nature of the world, the rate at which any one person with Internet access discovers and experiences new things rival that of monarchs from centuries before. Each of us have an incredible opportunity unique to our era to become human beings with extreme depth and substance. It will be a waste to worry so much about fitting arbitrary social boxes.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/identity-and-self-expression/cute.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -147,9 +145,9 @@ Korean actor Ma Dong-seok showing off his Hello Kitty merchandise. Fake &quot;ma
  
  <entry>
    <title>the rabbit hole of personal finance</title>
-   <link href="https://journal.francisdb.net/2024/07/24/the-rabbit-hole-of-personal-finance.html"/>
+   <link href="http://localhost:4000/2024/07/24/the-rabbit-hole-of-personal-finance.html"/>
    <updated>2024-07-24T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2024/07/24/the-rabbit-hole-of-personal-finance</id>
+   <id>http://localhost:4000/2024/07/24/the-rabbit-hole-of-personal-finance</id>
    <content type="html">&lt;p&gt;Recently, I’ve become semi-obsessed (slight exaggeration) with finance topics.&lt;/p&gt;
 
 &lt;p&gt;This started with and was a result of finally being able to withdraw all the allowance I had accumulated over years of studying at Philippine Science High School. My allowance money from those 6 years was a respectable 6 figures, and I was looking for a place to park it, and maybe earn some additional cash.&lt;/p&gt;
@@ -294,9 +292,9 @@ Technically, the &lt;i&gt;base interest rate&lt;/i&gt; on Time Deposit Plus acco
  
  <entry>
    <title>trivial math boredom</title>
-   <link href="https://journal.francisdb.net/2023/12/18/trivial-math-boredom.html"/>
+   <link href="http://localhost:4000/2023/12/18/trivial-math-boredom.html"/>
    <updated>2023-12-18T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2023/12/18/trivial-math-boredom</id>
+   <id>http://localhost:4000/2023/12/18/trivial-math-boredom</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/trivial-math-boredom/saint-lucy.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Let’s say you wanted to compute for the following integral:&lt;/p&gt;
@@ -384,9 +382,9 @@ $$\begin{aligned}
  
  <entry>
    <title>pedagogy</title>
-   <link href="https://journal.francisdb.net/2023/05/01/pedagogy.html"/>
+   <link href="http://localhost:4000/2023/05/01/pedagogy.html"/>
    <updated>2023-05-01T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2023/05/01/pedagogy</id>
+   <id>http://localhost:4000/2023/05/01/pedagogy</id>
    <content type="html">&lt;p&gt;Trigonometry is a field of mathematics concerning functions that deal with angles (sine, cosine, secant). Don’t be fooled by this relatively humble description, however (I believe I’ve committed a heinous crime by describing trigonometry that way) — as it is some of the most important mathematics to have ever been done, and has countless applications across the fields of physics and engineering.&lt;/p&gt;
 
 &lt;p&gt;Despite the gravity with which trigonometry holds within the mathematical world, it is universally hated by math students across all grade levels and continents. If trigonometry is such an important subject, and is one that does not require extensive knowledge of to be useful in its various applications in physics and engineering, why does it receive so much hate? Of course, the answer lies within the actual teaching of the subject.&lt;/p&gt;
@@ -439,9 +437,9 @@ $$\begin{aligned}
  
  <entry>
    <title>the hedonic treadmill</title>
-   <link href="https://journal.francisdb.net/2023/04/30/the-hedonic-treadmill.html"/>
+   <link href="http://localhost:4000/2023/04/30/the-hedonic-treadmill.html"/>
    <updated>2023-04-30T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2023/04/30/the-hedonic-treadmill</id>
+   <id>http://localhost:4000/2023/04/30/the-hedonic-treadmill</id>
    <content type="html">&lt;p&gt;Greenland is arguably one of the most beautiful countries on Earth. It’s home to some of the &lt;a href=&quot;https://kids.nationalgeographic.com/geography/countries/article/greenland&quot;&gt;beautiful icy landscapes&lt;/a&gt; and picturesque cities, and has the lowest population density of any country. Life in Greenland is peaceful, calm, quiet — a tranquil oasis in the desert of modern excess.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/the-hedonic-treadmill/greenland.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -486,9 +484,9 @@ This rant is partially inspired by Scott Alexander&apos;s excellent blog post en
  
  <entry>
    <title>drive and meaning</title>
-   <link href="https://journal.francisdb.net/2022/12/22/drive-and-meaning.html"/>
+   <link href="http://localhost:4000/2022/12/22/drive-and-meaning.html"/>
    <updated>2022-12-22T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2022/12/22/drive-and-meaning</id>
+   <id>http://localhost:4000/2022/12/22/drive-and-meaning</id>
    <content type="html">&lt;p&gt;If you asked me a year ago what my purpose in life was, I would’ve told you that I wanted to build great and cool things (greatness is optional — coolness is required). I would’ve told you that the driving force behind my existence was to joust with interesting intellectual challenges that the universe likes to throw at humanity. I wanted to be on the frontlines of history, to create things that impact as many human lives as possible. I didn’t necessarily want to be remembered, but to live my life in a manner in which I die peacefully, knowing I lived as much as I could.&lt;/p&gt;
 
 &lt;p&gt;With this as my foundation, I very easily accepted the ideas promoted by George Hotz. A slightly crazed, highly motivated individual with immense technical skill and an approach to thinking that I personally found unique as to be a breath of fresh air. Although Hotz, and other individuals like him, namely Elon Musk, preach about cooperation in the scientific and technical communities, their philosophy is one that is highly individualistic — just in a mankind vs. nature way. To paraphrase Hotz, the ultimate win in life is to “beat nature” and “escape the simulation”.&lt;/p&gt;
@@ -525,9 +523,9 @@ Pictured above is Professor Zei, refusing to budge from his place in the mystica
  
  <entry>
    <title>the smartphone software scene is a joke</title>
-   <link href="https://journal.francisdb.net/2022/08/21/the-smartphone-software-scene-is-a-joke.html"/>
+   <link href="http://localhost:4000/2022/08/21/the-smartphone-software-scene-is-a-joke.html"/>
    <updated>2022-08-21T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2022/08/21/the-smartphone-software-scene-is-a-joke</id>
+   <id>http://localhost:4000/2022/08/21/the-smartphone-software-scene-is-a-joke</id>
    <content type="html">&lt;p&gt;The smartphone as it exists today is a cornerstone of society. Everyone that isn’t an extremist, in crippling poverty, or a child, has one. So why is smartphone software so bad?&lt;/p&gt;
 
 &lt;p&gt;If you’re looking to purchase a new smartphone (in 2022), you have two options — buy into the Apple ecosystem, or buy into the Google ecosystem. Neither is a terribly good choice.&lt;/p&gt;
@@ -585,9 +583,9 @@ On iOS, this process is known as &quot;jailbreaking&quot;.
  
  <entry>
    <title>power of nonlinearity</title>
-   <link href="https://journal.francisdb.net/2022/08/20/power-of-nonlinearity.html"/>
+   <link href="http://localhost:4000/2022/08/20/power-of-nonlinearity.html"/>
    <updated>2022-08-20T00:00:00+08:00</updated>
-   <id>https://journal.francisdb.net/2022/08/20/power-of-nonlinearity</id>
+   <id>http://localhost:4000/2022/08/20/power-of-nonlinearity</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Skip to the next section if you’re unfamiliar with the underlying neural network mathematics&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The neural network is a fundamental idea that powers many AI systems we have today. It has been scaled up to tackle hard problems such as natural language understanding, object recognition, driving, and many other abilities thought to be exclusive only to humans.&lt;/p&gt;
